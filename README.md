@@ -1,5 +1,5 @@
 # Ex. No.3 - SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE
-### DATE: 26/09/2023
+### DATE: 
 
 ## AIM:
 ### To simulate the construction of cartesian 3D printer and to get in-depth knowledge of mechatronics of cartesian 3D printers.
@@ -62,8 +62,8 @@
 
 ![empd](https://github.com/Prajeeth17/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/120513885/1954118c-299b-4a79-820f-4955365671fa)
 
-### Name: Guruprasad 
-### Register Number:212221230032
+### Name: Berjin Shabeck
+### Register Number:212222240018
 
 ## Result: 
 ### Thus the simulation on construction of cartesian 3D printer is completed & movement of axis along X, Y, & Z has been studied.
